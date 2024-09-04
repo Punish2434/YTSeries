@@ -1,0 +1,3 @@
+[submodule "MyApp"]
+	path = MyApp
+	url = https://github.com/Punish2434/YTSeries.git
